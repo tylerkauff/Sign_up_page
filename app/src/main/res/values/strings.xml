@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sign UpPage</string>
+    <string-array name="countries_array">
+        <item>USA</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Russia</item>
+    </string-array>
+</resources>
